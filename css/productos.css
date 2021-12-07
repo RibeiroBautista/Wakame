@@ -1,0 +1,39 @@
+.productosWakame {
+    border-style: solid;
+    border-color: #F0BD48;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.productosWakame {
+    border-style: ridge;
+    border-color: #BD804B;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.productoWakameTitulo {
+    border-color: #F0BD48;
+    color: #fff;
+    border-style: solid;
+    margin-bottom: 30px;
+}
+.productoWakameCosmeticos {
+    font-size: 40px;
+    border-color: #F0BD48;
+    color: #fff;
+    border-style: solid;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: rgba(0, 102, 255, 0.685);
+}
+.productoWakameRemeras {
+    font-size: 40px;
+    border-color: #F0BD48;
+    border-style: solid;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: rgba(0, 102, 255, 0.685);
+}
+.sectionProductos {
+    margin-bottom: 30px;
+}
